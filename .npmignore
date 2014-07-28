@@ -23,3 +23,7 @@ Thumbs.db
 .jshintrc
 .travis.yml
 .editorconfig
+
+*~
+*.swp
+
