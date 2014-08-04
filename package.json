@@ -6,8 +6,8 @@
   "scripts": {
     "test": "NODE_ENV=test ./node_modules/.bin/mocha --harmony"
   },
-  "author": "Bandwidth, Inc",
-  "license": "Proprietary",
+  "author": "avbel <belchikovs@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.0.9",
     "lodash": "^2.4.1"
