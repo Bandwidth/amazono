@@ -1,6 +1,6 @@
 {
   "name": "amazono",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Amazon EC2 hosting provider for service_maker",
   "main": "index.js",
   "scripts": {
