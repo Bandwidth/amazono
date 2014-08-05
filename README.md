@@ -13,7 +13,7 @@ npm install amazono
 and then use this plugin from code like
 
 ```
-yield server.register(require("amosono"));
+yield server.register(require("amazono"));
 ```
 
 or from  manifest file
