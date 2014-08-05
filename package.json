@@ -22,18 +22,3 @@
     "sinon": "^1.10.3"
   }
 }
-
-  "dependencies": {
-    "aws-sdk": "^2.0.9",
-    "lodash": "^2.4.1"
-  },
-  "devDependencies": {
-    "co": "^3.0.6",
-    "co-hapi": "0.0.9",
-    "co-mocha": "0.0.4",
-    "hapi": "^6.2.1",
-    "mocha": "^1.21.0",
-    "should": "^4.0.4",
-    "sinon": "^1.10.3"
-  }
-}
