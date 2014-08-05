@@ -13,7 +13,7 @@
     "lodash": "^2.4.1"
   },
   "devDependencies": {
-    "co": "^3.0.6",
+    "co": "3.0.6",
     "co-hapi": "0.0.9",
     "co-mocha": "0.0.4",
     "hapi": "^6.2.1",
