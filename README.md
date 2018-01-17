@@ -1,3 +1,5 @@
+# ⚠️ DEPRECATED⚠️ 
+
 ## amazono
 
 [![Build](https://travis-ci.org/bandwidthcom/amazono.png)](https://travis-ci.org/bandwidthcom/amazono)
